@@ -11,7 +11,7 @@
             using this tool : https://www.passwordmonster.com/
 
 ----------------------------------------------------------------------------------------------------------
-Live Demo : 
+Live Demo : https://mulugetanigus.github.io/Password-Generator/
 
 
 developed by: mulugeta nigus
